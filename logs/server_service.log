@@ -1,0 +1,8 @@
+2016-03-10 19:57:01,075 - server_service - server_service.py - [line:23] - DEBUG - test debug
+2016-03-10 19:57:01,075 - server_service - server_service.py - [line:24] - INFO - test info
+2016-03-10 20:34:30,535 - server_service - server_service.py - [line:23] - DEBUG - test debug
+2016-03-10 20:34:30,535 - server_service - server_service.py - [line:24] - INFO - test info
+2016-03-10 20:39:08,750 - server_service - server_service.py - [line:23] - DEBUG - test debug
+2016-03-10 20:39:08,750 - server_service - server_service.py - [line:24] - INFO - test info
+2016-03-10 20:39:41,134 - server_service - server_service.py - [line:23] - DEBUG - test debug
+2016-03-10 20:39:41,134 - server_service - server_service.py - [line:24] - INFO - test info
